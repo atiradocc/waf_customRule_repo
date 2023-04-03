@@ -11,5 +11,6 @@ To create and run the rule follow these instructions:
 * apply the terraform template with `terraform apply`
 * Run a Conformity Bot scan in your C1C dashboard
 * Under `View By Rule` search for the `CloudWatch` service
+* Scroll down to the results and look for `CloudWatch Alarm detecting AWS WAFv2 Blocking events`
 
 
