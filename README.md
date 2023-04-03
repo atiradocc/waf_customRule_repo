@@ -13,4 +13,6 @@ To create and run the rule follow these instructions:
 * Under `View By Rule` search for the `CloudWatch` service
 * Scroll down to the results and look for `CloudWatch Alarm detecting AWS WAFv2 Blocking events`
 
+# Caveats
+This is a work in progress and further work is needed removing findings from other services.
 
